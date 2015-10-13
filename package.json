@@ -1,0 +1,10 @@
+{
+  "name": "Ada-Ascii",
+  "version": "1.0.0",
+  "main": "ada.js",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "image-to-ascii": "^2.0.0"
+  }
+}
